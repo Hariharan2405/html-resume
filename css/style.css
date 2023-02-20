@@ -1,0 +1,35 @@
+section{width:700px;	
+}
+body{margin-left:250px;	
+}
+h1{
+	text-align:center;
+}
+.ab{
+	background-color:gray;
+}
+.mar{
+	margin-left:20px;
+}
+table,th,td{border:2px solid black;
+			border-collapse:collapse;
+			text-align:center;
+			padding:10px;
+}
+table{width:700px;
+	height:100px;
+}
+aside{float:right;
+}
+.sp1{
+	margin-left:50px;
+}
+.sp2{
+	margin-left:44px;
+}
+.sp3{
+	margin-left:40px;
+}
+.sp4{
+	margin-left:20px;
+}
